@@ -1,12 +1,14 @@
 {
   "settings": {
     "name": "BearTech",
-    "currentPage": "beartech_team.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#0b09a4"
+      ]
     },
     "versionFirst": "4.7.2",
     "uniqCompNum": 52,
@@ -75,9 +77,9 @@
             "showText": true,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/timglw16h2dw-1500x975.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/timg8koerspx-1200x754.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -105,7 +107,13 @@
               "color": "#000000"
             },
             "H1": {
-              "color": "#000000"
+              "color": "#0b09a4",
+              "font-size": "46px"
+            },
+            "DIV": {
+              "font-size": "46px",
+              "text-align": "center",
+              "color": "#0b09a4"
             }
           }
         },

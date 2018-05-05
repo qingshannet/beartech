@@ -8,7 +8,13 @@
   color: #000000;
 }
 #header1-1 H1 {
-  color: #000000;
+  color: #0b09a4;
+  font-size: 46px;
+}
+#header1-1 DIV {
+  font-size: 46px;
+  text-align: center;
+  color: #0b09a4;
 }
 #msg-box3-e .mbr-header .mbr-header__text {
   text-align: center;
