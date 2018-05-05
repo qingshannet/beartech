@@ -52,6 +52,10 @@
 }
 #msg-box3-1b .lead P {
   text-align: left;
+  color: #000000;
+}
+#msg-box3-1b .mbr-section-title {
+  color: #000000;
 }
 #msg-box3-1c .mbr-header .mbr-header__text {
   text-align: center;

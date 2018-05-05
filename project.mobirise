@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BearTech",
-    "currentPage": "index.html",
+    "currentPage": "beartech_team.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -496,11 +496,11 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "伯克熊团队",
+          "title": "熊盟教育团队",
           "text": "你好，我们是来自UC Berkeley的五位社大转学毕业生。熊是加州的吉祥物，而Golden Bear是我们Berkeley荣誉共同的见证，于是，大家给了我们一个亲切的爱称，伯克熊。<br><br>从2012年到2016年间，我们怀着不同的心情，从北京、广东、香港、台湾和美国各地出发，成为了当时为数不多社区大学转学大军中的几位。坦白说，初入CC的我们，和你此时的心情一样。我们中有的是高考错失清北，心有不甘，决定在CC奋力一搏，改变命运；也有的则有些彷徨无措，面对着两年的转学路，既有期待，但更多的是惶惑。 <br><br>然而，我们都有一个共同的梦想：考入伯克利，步入世界前十名校。<br><br>社大转学说难不难，说易却也不易。我们曾经不安，曾经恐惧，甚至曾经怀疑自己的选择而想到放弃。幸然，我们相互慰勉，挑灯夜读，在每一次要退缩的时候，总有身边的几位朋友在后面推一把，再推一把。<br><br>于是，在社区学院的两年间，我们5人中的<br>2位成为学生政府总统，<br>1位成为毕业礼发言人，<br>4位成为学校社团主席，<br>3位在全美商业竞赛中获得金奖，<br>5位全部获得GPA4.0的成绩，<br>共收到来自29个学校超过80个Offer。<br> &nbsp;<br><br>因缘际会，我们最终都选择了最初的梦想---伯克利。在这个学霸如云，诺奖丛生的世界最高学府，我们依然怀着最初的坚持，所向披靡。<br>于是，我们5人中的<br>2位成为了UCB最高荣誉毕业生；<br>1人成为了UCB Haas商学院年度毕业生；<br>1人获得计算机学院最高奖学金；<br>1人成为了数学统计双学位学霸。<br><br>因为曾经走过这条看似曲折，实则充满幸福的社大转学之路；<br>因为深知这条路走了就不能退缩，歪了就难以板正，迟了就终难成器，而走对了就畅通无阻；<br>我们聚在了一起，手把手，成为了一个又一个学弟学妹的领路人。<br><br>我们不是考试加工厂，也不是Offer狂人，更不是传奇明星，只是五位平凡的伯克熊。<br>但是，截止到2018年4月，我们已经帮助172位社区学院学生转学进入UCB。 <br><br>从2014年建立BearTech起，我们立足于社区学院，摸索了一套以转学为目标，以职场、社团、志愿者、竞赛为核心的孵化项目，帮助学弟学妹们成功进入美国前50院校。<br><br>2015年我们达成第一批5所试点学校；<br>2016年TOP 50录取人数首次破百；<br>2017一年UCB录取人数达到75人，超过所有其他同类公司的总和；<br>同年，我们获得UCB SkyDeck孵化器的全力支持，成为唯一一家UCB支持的教育咨询企业，在中美两国落地2+2项目。<br><br>BearTech,我们等你来！<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -638,10 +638,10 @@
             "inverse": false,
             "paddingTop": "4",
             "paddingBottom": "3",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -670,7 +670,11 @@
               "text-align": "center"
             },
             ".lead P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
             }
           },
           "_params": {
@@ -689,8 +693,8 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
           "title": "咨询评估阶段",
@@ -794,8 +798,8 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
           "title1": "生活服务",
