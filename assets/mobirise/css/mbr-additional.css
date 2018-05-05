@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
 
 
 #ext_menu-0 .navbar-toggler {
@@ -30,6 +32,9 @@
 }
 #msg-box3-e .lead P {
   text-align: center;
+}
+#msg-box4-1k .mbr-section-title {
+  font-family: 'Playfair Display', sans-serif;
 }
 #msg-box4-x .lead P {
   text-align: left;
