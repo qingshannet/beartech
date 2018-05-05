@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BearTech",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -663,10 +663,10 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-720x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#FFF8E0",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -737,7 +737,7 @@
             "showButtons": false,
             "inverse": false,
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -768,10 +768,10 @@
             "paddingTop": "2",
             "paddingBottom": 3,
             "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff8e0",
             "bgVideoRadio": false,
             "bgVideo": {
