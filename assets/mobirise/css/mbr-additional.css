@@ -5,6 +5,10 @@
 }
 #header1-1 P {
   font-family: 'Alegreya Sans', sans-serif;
+  color: #000000;
+}
+#header1-1 H1 {
+  color: #000000;
 }
 #msg-box3-e .mbr-header .mbr-header__text {
   text-align: center;

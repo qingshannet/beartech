@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BearTech",
-    "currentPage": "services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -75,9 +75,9 @@
             "showText": true,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "center",
+            "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/timglw16h2dw-1500x975.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -85,7 +85,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
@@ -101,7 +101,11 @@
           "_styles": {
             "P": {
               "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "color": "#000000"
+            },
+            "H1": {
+              "color": "#000000"
             }
           }
         },
