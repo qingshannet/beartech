@@ -445,7 +445,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">联系我们</a>",
           "text1": "联系我们：<br>金逍<br>EMAIL: beartech@yeah.net<br>Phone: 15810950530<br>",
-          "text2": "请告诉我们您的需求和问题， 我们将竭诚为您服务",
+          "text2": "<p>请告诉我们您的需求和问题， 我们将竭诚为您服务<br><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "beartech@yeah.net",
@@ -534,7 +534,7 @@
               "size": 0
             }
           },
-          "title": "请关注我们的微信服务号",
+          "title": "关注我们，保持联系",
           "text": "",
           "alias": "purity/components",
           "_tags": [
@@ -546,7 +546,10 @@
           "_anchor": "msg-box4-1j",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           }
         }
