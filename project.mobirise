@@ -450,7 +450,7 @@
             "title": "MESSAGE",
             "action": "beartech@yeah.net",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "感谢您的信任, 我们将尽快处理"
             },
             "fields": {
               "name": {
