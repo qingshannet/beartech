@@ -13,7 +13,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -357,6 +357,62 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/transfer-demo-1400x520.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "熊盟教育<br>2+2项目的<br>佼佼者",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1l"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -393,7 +449,7 @@
               "size": 0
             }
           },
-          "title": "<b>2017<br></b><br>75名UCB<br>36名UCLA",
+          "title": "<b>2017<br></b><br>75名伯克利<br>36名加州理工",
           "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -506,7 +562,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">联系我们</a>",
-          "text1": "联系我们：<br>金逍<br>EMAIL: beartech@yeah.net<br>Phone: 15810950530<br>",
+          "text1": "联系我们：<br>詹老师<br>EMAIL: beartech@yeah.net<br>Phone: 15810950530<br>",
           "text2": "<p>请告诉我们您的需求和问题， 我们将竭诚为您服务<br><br></p>",
           "form": {
             "title": "MESSAGE",
