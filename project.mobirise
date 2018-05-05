@@ -60,7 +60,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">伯克熊</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">熊盟教育</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_styles": {
@@ -225,7 +225,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "伯克熊",
+          "title": "熊盟教育",
           "caption": "<p>通过两年社区大学学习作为跳板转学进入全美前50顶尖学校学习两年，两年后以全美前50学校身份毕业。服务以加州社区大学本地的GPA提升，课外实习，竞赛活动为服务核心的零门槛后端保障性服务</p><p><a href=\"beartech_team.html\">了解更多</a></p>",
           "alias": "purity/components",
           "_tags": [
@@ -531,7 +531,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">伯克熊</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">熊盟教育</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -872,7 +872,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">伯克熊</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">熊盟教育</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
