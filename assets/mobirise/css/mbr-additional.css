@@ -1,5 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
 #ext_menu-0 .navbar-toggler {
   color: #000;
+}
+#header1-1 P {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #msg-box3-e .mbr-header .mbr-header__text {
   text-align: center;
@@ -7,9 +12,54 @@
 #msg-box3-e .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#ext_menu-3 .navbar-toggler {
+#msg-box3-e .lead P {
+  text-align: center;
+}
+#msg-box4-x .lead P {
+  text-align: left;
+}
+#contacts1-k B {
+  font-size: 16px;
+}
+#header1-14 P {
+  text-align: left;
+}
+#ext_menu-z .navbar-toggler {
   color: #000;
 }
-#msg-box4-6 .lead P {
+#contacts1-11 B {
+  font-size: 16px;
+}
+#msg-box3-1b .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1b .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1b .lead P {
   text-align: left;
+}
+#msg-box3-1c .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1c .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1c .lead P {
+  text-align: left;
+}
+#msg-box3-1d .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1d .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1d .lead P {
+  text-align: left;
+}
+#ext_menu-15 .navbar-toggler {
+  color: #000;
+}
+#contacts1-17 B {
+  font-size: 16px;
 }
