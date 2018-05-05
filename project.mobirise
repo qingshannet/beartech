@@ -7,7 +7,8 @@
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
-        "#0b09a4"
+        "#0b09a4",
+        "#9e7545"
       ]
     },
     "versionFirst": "4.7.2",
@@ -91,7 +92,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "低起点升美国名校<div>北美本地2+2留学项目</div>",
+          "title": "<b>低起点升美国名校</b><div><b>北美本地2+2留学项目</b></div>",
           "text": "美国社区大学“Community College”，也可称为“两年制大学”，大多是公立学校。社区大学提供大学一二年级的基础教育，也提供广泛的职业教育。社区大学的学生学习两年后可以转入四年制大学读后两年专业课程，不仅可以转入普通大学，更可转入像伯克利这样的世界一流名校。",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -104,16 +105,20 @@
             "P": {
               "font-family": "'Alegreya Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "18px"
             },
             "H1": {
-              "color": "#0b09a4",
-              "font-size": "46px"
+              "color": "#9e7545",
+              "font-size": "36px"
             },
             "DIV": {
-              "font-size": "46px",
+              "font-size": "32px",
               "text-align": "center",
-              "color": "#0b09a4"
+              "color": "#9e7545"
+            },
+            "B": {
+              "font-size": "32px"
             }
           }
         },
@@ -453,7 +458,7 @@
             }
           },
           "text1": "",
-          "text2": "<b>联系我们</b><b><br></b>金逍<br>\nPhone: 15810950530<br>",
+          "text2": "<b>联系我们</b><b><br></b>金逍<br>EMAIL: beartech@yeah.net<br>\nPhone: 15810950530<br>",
           "text3": "",
           "alias": "purity/components",
           "_tags": [
@@ -602,7 +607,7 @@
             }
           },
           "text1": "",
-          "text2": "<b>联系我们</b><b><br></b>金逍<br>\nPhone: 15810950530<br>",
+          "text2": "<b>联系我们</b><b><br></b>金逍<br>EMAIL: beartech@yeah.net<br>\nPhone: 15810950530<br>",
           "text3": "",
           "alias": "purity/components",
           "_tags": [
@@ -943,7 +948,7 @@
             }
           },
           "text1": "",
-          "text2": "<b>联系我们</b><b><br></b>金逍<br>\nPhone: 15810950530<br>",
+          "text2": "<b>联系我们</b><b><br></b>金逍<br>EMAIL: beartech@yeah.net<br>\nPhone: 15810950530<br>",
           "text3": "",
           "alias": "purity/components",
           "_tags": [
