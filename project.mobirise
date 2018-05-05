@@ -179,7 +179,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "适合人群广泛，只要你满足18岁",
+          "title": "适合人群广泛，只要你满18岁",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
           "alias": "purity/components",
@@ -357,7 +357,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "2",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -449,7 +449,7 @@
               "size": 0
             }
           },
-          "title": "<b>2017<br></b><br>75名伯克利<br>36名加州理工",
+          "title": "<b>2017<br></b><br>75名UCB<br>36名UCLA",
           "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
           "alias": "purity/components",
           "_tags": [
