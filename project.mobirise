@@ -444,7 +444,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">联系我们</a>",
-          "text1": "联系我们<br>金逍<br>EMAIL: beartech@yeah.net<br>Phone: 15810950530<br>",
+          "text1": "联系我们：<br>金逍<br>EMAIL: beartech@yeah.net<br>Phone: 15810950530<br>",
           "text2": "请告诉我们您的需求和问题， 我们将竭诚为您服务",
           "form": {
             "title": "MESSAGE",
@@ -482,7 +482,7 @@
           "_anchor": "contacts3-1h",
           "_styles": {
             "DIV": {
-              "text-align": "right"
+              "text-align": "left"
             },
             "P": {
               "text-align": "left"
@@ -497,7 +497,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "14",
+            "imageSize": "13",
             "paddingTop": 0,
             "paddingBottom": "3",
             "bgImageRadio": false,
