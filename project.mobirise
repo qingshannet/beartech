@@ -424,18 +424,20 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "100%名校录取率",
                 "contentAlign": "right",
                 "text": "保证全部学生可以被全美前50名校录取，如果未能录取<b>双倍赔付</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1919x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -443,18 +445,22 @@
                 "title": "精英职业规划",
                 "contentAlign": "left",
                 "text": "从全美前50院校毕业后各大全球顶级上市公司offer机遇",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-10.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "全程无忧",
                 "contentAlign": "center",
                 "text": "从入学社区大学到两年后转入全美前50四年制大学全流程保障服务",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6"
               }
             ]
           },
@@ -464,7 +470,12 @@
             "主题"
           ],
           "_name": "slider",
-          "_anchor": "slider-n"
+          "_anchor": "slider-n",
+          "_styles": {
+            "H2": {
+              "font-size": "48px"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
