@@ -13,7 +13,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 59,
+    "uniqCompNum": 83,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -37,7 +37,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "color": "#fff",
@@ -540,6 +540,90 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": false,
+            "count": "5",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#d8f1d5",
+            "overlayOpacity": 0.5
+          },
+          "header": "熊盟教育的朋友们",
+          "items": [
+            {
+              "authorName": "Ye Zhong",
+              "authorBio": "",
+              "text": "<p>\" My dream of studying in a top college has been awaken again after I met Kevin through my friend Jason. Kevin is the founder of Bear Tech, which helps students to finish their transfer applications for UC Universities. It was quite amazing that UC extended their deadline of application this year, leaving me three weeks right after my final exams to finish the application with Year Education’s assistance.\"</p><p><a href=\"page3.html#content5-1z\">他的故事</a></p>"
+            },
+            {
+              "authorName": "Brayden",
+              "authorBio": "User",
+              "text": "<p><span style=\"font-size: 1rem;\">“...&nbsp;</span><span style=\"font-size: 1rem;\">半年之后，我成功地拿到了哈斯商学院的offer，成为哈斯全球招生90人中的其中一员。YEAH对于我来说不仅帮助了我完成转学、踏入哈斯的殿堂的梦想，还改变了我的人生...”</span></p><p>他的故事</p>"
+            },
+            {
+              "authorName": "Michelle",
+              "authorBio": "User",
+              "text": "<p>“... 直至最后，我敢肯定的是，如果当初我没有选择欧耶，我会扛不住压力，完不成申请。申请的经历远没有想象中的简单，但有了熊盟的陪伴和鼓励，我坚持到了最后...”</p><p>她的故事</p>"
+            },
+            {
+              "authorName": "Sunny",
+              "authorBio": "Developer",
+              "text": "<p>“...导师Shutian给了我很大的帮助，她不仅帮我找到了自己身上可以写用来写文书的闪光点，还用过来人的经验告诉我应该突出哪些特长。她真的把我的申请当成她自己的一样。很感谢她这样帮我，我相信最初选择熊盟是正确的...”</p><p><a href=\"page3.html#content5-1y\">她的故事</a></p>"
+            },
+            {
+              "authorName": "Peter",
+              "authorBio": "Developer",
+              "text": "<p>“... 我觉得自己很幸运地能在这个阶段接受到专业的帮助，完成了高质量的文书。对我而言完成申请的过程也是一个重新发现自己、定位自己的过程。希望未来还能和熊盟有再合作的机会。”</p><p>他的故事</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": ""
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1n",
+          "testimonial": [
+            {
+              "authorName": "Ye Zhong",
+              "authorBio": "",
+              "text": "<p>\" My dream of studying in a top college has been awaken again after I met Kevin who is the founder of Bear Tech. It was quite amazing that UC extended their deadline of application this year, leaving me three weeks right after my final exams to finish the application with Bear Tech’s assistance.\"</p><p><a href=\"page3.html#content5-1z\">他的故事</a></p>"
+            },
+            {
+              "authorName": "Brayden",
+              "authorBio": "User",
+              "text": "<p><span style=\"font-size: 1rem;\">“...&nbsp;</span><span style=\"font-size: 1rem;\">半年之后，我成功地拿到了哈斯商学院的offer，成为哈斯全球招生90人中的其中一员。YEAH对于我来说不仅帮助了我完成转学、踏入哈斯的殿堂的梦想，还改变了我的人生...”</span></p><p><a href=\"page3.html#content5-22\">他的故事</a></p>"
+            },
+            {
+              "authorName": "Michelle",
+              "authorBio": "User",
+              "text": "<p>“... 直至最后，我敢肯定的是，如果当初我没有选择欧耶，我会扛不住压力，完不成申请。申请的经历远没有想象中的简单，但有了熊盟的陪伴和鼓励，我坚持到了最后...”</p><p><a href=\"page3.html#content5-24\">她的故事</a></p>"
+            },
+            {
+              "authorName": "Sunny",
+              "authorBio": "Developer",
+              "text": "<p>“...导师Shutian给了我很大的帮助，她不仅帮我找到了自己身上可以写用来写文书的闪光点，还用过来人的经验告诉我应该突出哪些特长。她真的把我的申请当成她自己的一样。很感谢她这样帮我，我相信最初选择熊盟是正确的...”</p><p><a href=\"page3.html#content5-1y\">她的故事</a></p>"
+            },
+            {
+              "authorName": "Peter",
+              "authorBio": "Developer",
+              "text": "<p>“... 我觉得自己很幸运地能在这个阶段接受到专业的帮助，完成了高质量的文书。对我而言完成申请的过程也是一个重新发现自己、定位自己的过程。希望未来还能和熊盟有再合作的机会。”</p><p><a href=\"page3.html#content5-26\">他的故事</a></p>"
+            }
+          ]
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -684,7 +768,7 @@
     "beartech_team.html": {
       "settings": {
         "title": "熊盟教育团队",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -725,10 +809,10 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "color": "#fff",
@@ -755,7 +839,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">熊盟教育</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bear Tech</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -833,7 +917,7 @@
     "services.html": {
       "settings": {
         "title": "服务内容",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -1070,10 +1154,10 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "color": "#fff",
@@ -1100,7 +1184,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">熊盟教育</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bear Tech</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -1172,6 +1256,385 @@
             }
           },
           "_anchor": "contacts1-17"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "成功故事",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ken-screen-3-1634x1632.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Ken",
+          "caption": "<p>UC Berkeley, Economics Major<br><span style=\"font-size: 1.25rem;\">短期冲刺保录取项目<br></span><span style=\"font-size: 1.25rem;\">Got other admissions: UCB, UCLA, UCSD, UCD, UCI, UCSB</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1z",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "text": "<p>我叫Ye Zhong，我在Drexel University读书。今年大二，专业是金融。这是我在美国的第五年。两年前，我申请了不同的学校。因为我在美国上的高中，所以与一些没有在美国上高中的同学相比，我比较有自信。但是，我最终却上了Drexel University——一所我用来保底的学校。我对这个结果不太满意，可能因为我是完美主义者吧！于是，我决定转学到其他更好的学校。</p><p>在Drexel的第一年里，我用心地去准备我的转学申请。我参加了很多社团组织，也成为了里面的Officer。另外，我还利用暑假的时间实习。我准备申请转学的那一年，刚好UC推迟了递交申请书的截止日期。我找到熊盟，认识到了Kevin（熊盟的创始人）。他帮助了我实现了我那遥不可及的转学梦。最后，熊盟帮助我利用了最后的短短三个星期时间完成申请书。也许对于完成一份申请书，仅仅三个星期的时间真的非常短且不足够。</p><p>但庆幸的是，我有Kiana作为我的导师。对于申请书里的两篇自我介绍，我本是无从下手。但是Kiana每两天都抽出至少一个小时的时间去跟我谈这两篇文章的细节。我们决定把文章分为五大块。等到文章终于完成之后，Kevin还亲自检查了一遍，确保一切无误。他还协助我一起填写了申请书的其他细节。那时候，Kevin人在北京。</p><p>我非常感激他。因为他在和美国的我有时差，但是他都非常迁就我在美国的时间，我非常感动。有Kevin和Kiana的支持，我感到我的后背变得坚硬。整个转学过程，我充满了自信！</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-21"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/brayden-397x397.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Brayden",
+          "caption": "<p>UC Berkeley, Haas Economics Major<br><span style=\"font-size: 1.25rem;\">两年制孵化器<br>Got other admissions: USC (Marshall), UIUC, Michigan Ann Arbor (Ross), Indiana (Bloomington), UNC(Kenan-Flagler)</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-22"
+        },
+        {
+          "text": "<p>我从小就是一个特别不自信、自卑的人。跟朋友之间的交流本来就很少，更不敢跟陌生人讲话。除了去学校上课以外，其他时间我都是窝在家里。两点一线，没有任何social life。我也从来都没有一种意识说要去锻炼一下自己，交朋友等。但出于哈斯商学院的向往，我决定去美国闯一闯。但是事情并没有我想得那么简单。我第一个学期的历史课就拿了个D。我当时临近崩溃的边缘，我以为哈斯就这样彻底与我无缘了。更别说以一个国际男性留学生来说，如果GPA没有4.0，进哈斯的几率几乎为0。&nbsp;</p><p>&nbsp; &nbsp; &nbsp;直到我遇到了Kevin（熊盟的创始人），加入了熊盟的两年长期项目。Kevin成为了我的导师，帮我规划了专业基础课的所有课程。他告诉我，这不是世界末日，还有机会的。如果重上这堂课，可以覆盖掉原来的GPA，并且在申请的时候突出自己的变化，这对我来说反倒不是一个劣势。</p><p>&nbsp; &nbsp; &nbsp;Kevin了解我是一个从来不爱说话不爱表达自己的人。于是他帮我安排上了一堂中文课。而且在他的督促之下，我报名了参加中文演讲比赛。但Kevin鼓励我。他希望我不仅在学术上有一个好成绩，而且更希望我可以打开自己、懂得怎么去表达自己、面向大家、融入这个社会 。&nbsp;</p><p>&nbsp; &nbsp; &nbsp;在之后的一个学期，Kevin每天都会在他忙碌的生活中抽出4-5个小时的时间来帮助我练习中文。从上学到放学、从早饭到晚饭，只要Kevin有时间就陪我练习。在练习的过程中，Kevin还邀请了不少他的中国朋友来帮我练习。起初，我不太敢和他们交流。但随着他与源源不断的鼓励，我开始有勇气和这些“陌生人”说话了。而且，Kevin为了能更好地跟我沟通，他甚至花了一年的时间去学习泰文。就这样经过了4个月的艰苦训练，我终于获得了全加州中文比赛的第一名。</p><p>&nbsp; &nbsp; &nbsp;这是我第一次学中文。而跟我一起竞赛的人，大都已经学了中文数年的了。而当我站在颁奖台上的那一刻，拿着奖杯，我发现这个奖杯的重量不在于奖杯本身。这是我人生拿的第一个奖。我证明了我自己！我证明了我不比别人差，而且可以比别人优秀！只要我努力，我就可以得到我想要的东西。这次比赛以后，我发现我变得有自信、开朗了。我还发现其实与人说话、交流、 了解别人是一个非常有意思、享受的过程。我更学会了如何站在别人的角度来思考问题。&nbsp;</p><p>&nbsp; &nbsp; &nbsp; 最后在Kevin的帮助下，我参加了学校的三个社团并成为了Finance Club的副主席。一切都进行得非常顺利。我不仅以GPA4.0毕业了，而且在学校的社团里创造了很大的影响力。并且在Kevin的安排下，我获得了Deloitte的实习机会。</p><p>&nbsp; &nbsp; &nbsp;在与Kevin一起构造Personal Statement的过程中，虽然我反复地修改了四十余次，这个过程也非常痛苦，但是这也是我对我自己这两年的成长的一个反思。这篇PS对我来说，不仅是一篇简简单单的Essay，而更多的是见证了我这两年的飞跃。</p><p>&nbsp; &nbsp; &nbsp;半年之后，我成功地拿到了哈斯商学院的offer，成为哈斯全球招生90人中的其中一员。YEAH对于我来说不仅帮助了我完成转学、踏入哈斯的殿堂的梦想，还改变了我的人生。</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-23"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/michelle-4-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Michelle",
+          "caption": "<p>UC Berkeley,  Political Economics Major<br><span style=\"font-size: 1.25rem;\">短期冲刺保录取项目<br></span><span style=\"font-size: 1.25rem;\">Got other admissions:   UCB, UCSD, UCD, UCI, UCSB</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-24",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "text": "<p>我自12岁起在博茨瓦纳生活。2014年来到美国后，在这里生活了将近两年，喜欢加州的天气、人文和多元化的环境。</p><p>我最初并没有对社区学院抱有太大的期望，但是来了之后发现情况并没有想象中那么糟。在这里我学会了独立，交到一群知心的朋友，校园生活让从小没有在国内长大的我经历了很多以前缺失的事情。</p><p>出门在外，很多事都要自己一个人承担，但从另外一个角度来说，这也让我得到了快速的成长。准备转学申请那段期间应该是每个人都拥有最大压力的时期，我敢肯定压力不会低于高考，申请那段期间我瘦了整整10斤。从遇见熊盟到最后选择熊盟我都是经过了深思熟虑的。虽然熊盟还比较年轻，但当我逐步地了解和熟悉里面的顾问和导师，我相信他们有足够的能力来帮我完成申请。</p><p>直至最后，我敢肯定的是，如果当初我没有选择熊盟，我会扛不住压力，完不成申请。最后一个月冲刺写申请的时候，我也会熬夜到凌晨，每天只睡3个小时。但熊盟的导师Adriane坚持与我一起熬夜讨论和修改ps，一千字的文章在一个月里被改了不下20遍。申请的经历远没有想象中的简单，但有了欧耶的陪伴和鼓励，我坚持到了最后。</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-25"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sunny-5-960x604.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Sunny",
+          "caption": "<p>UC Berkeley, Economics Major<br><span style=\"font-size: 1.25rem;\">短期冲刺保录取项目<br></span><span style=\"font-size: 1.25rem;\">Got other admissions: UCB, UCLA, UCSD, UCD, UCI, UCSB</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1y"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "text-align": "left"
+            },
+            ".lead": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 1.25rem;\">最初要远渡重洋来美国学习，是和爸爸妈妈一起讨论后的决定，而选择DVC是国内中介的推荐。可是当初来了之后，才发现自己真的什么都不懂，什么也不知道。之前的中介也帮不上任何忙。最开始要自己找寄宿家庭，后来又要自己找公寓住……来到了DVC才真的体验到了一个人生活的感觉。</span></p><p><span style=\"font-size: 1.25rem;\">渐渐融入了美国的学习和生活后，转学申请文书又令自己陷入了一片迷茫。后来遇到了热心的学长介绍，我才知道了熊盟教育。导师Shutian给了我很大的帮助，她不仅帮我找到了自己身上可以写用来写文书的闪光点，还用过来人的经验告诉我应该突出哪些特长。她真的把我的申请当成她自己的一样，每次我修改好后还专门拿去问她的同事和朋友们有什么建议。</span></p><p><span style=\"font-size: 1.25rem;\">很感谢她这样帮我，我相信最初选择熊盟是正确的。</span><br></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1t"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/peter-960x960.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Peter",
+          "caption": "<p>UC Berkeley,  Statistics + Environmental Economics Major<br><span style=\"font-size: 1.25rem;\">短期冲刺保录取项目<br></span><span style=\"font-size: 1.25rem;\">Got other admissions:   UCB, UCSD, UCD, UCI, UCSB</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-26",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "text": "<p>出国是个很偶然的决定，其实自己当时也搞不清楚自己想要什么，就这么稀里糊涂的和家里人闹着出来。但是当自己一个人拎着箱子从旧金山机场走出来的那一刻，我告诉自己，这并不是小孩子过家家，既然第一次自己做了选择，就要对自己负责。</p><p>来了DVC之后，发现这里比我期望的要好，麻雀虽小五脏俱全，还是有很多惊喜的。相比国内我也有了更多可以自己分配的时间。在正式开学前，我偶然地参加了熊盟的新生讲座，才知道原来申请转学除了要有好的成绩外，还有许多东西要准备。这个讲座让我第一次了解了申请的本质，其中讲员的深度剖析给了我很多有用的信息和指导。</p><p>为了两年后能成功转到我的梦想学校，我开始与熊盟合作，帮助我规划两年内需要完成的各种活动。在熊盟的顾问的指导下，我不仅加入了DVC学生政府、Unicef、CSA、Investment等社团，还成为了中文系助教，认识了很多志同道合的朋友，这也是我在DVC收获的一大财富。申请季开始后，熊盟又给我配备了专业的导师帮助我完成申请中的个人陈述。虽然导师的母语是英语，但她也能很流利地讲中文。所以每一次我用英文表达不出来的时候，她都会用中文引导我，然后再用她纯熟的英文写作功底来帮我架构我的个人陈述。通过一次次与导师梳理思路、修改讨论，我的个人陈述和简历里的每一个词都经过了推敲，每一句描述都用的刚刚好。</p><p>我觉得自己很幸运地能在这个阶段接受到专业的帮助，完成了高质量的文书。对我而言完成申请的过程也是一个重新发现自己、定位自己的过程。希望未来还能和熊盟有再合作的机会。</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-27"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"assets/files/BearTech_intro.pdf\">下载资料</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">首页</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts3-1h\">联系我们</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"services.html\">服务内容</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"beartech_team.html\">关于我们</a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bear-tech-10-final-26042018-179x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">熊盟教育</a>",
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "ext_menu-1o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 熊盟教育",
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">联系我们</a>",
+          "text1": "联系我们：<br>詹老师<br>EMAIL: beartech@yeah.net<br>PHONE: 15810950530<br>",
+          "text2": "<p>请告诉我们您的需求和问题， 我们将竭诚为您服务, 并提供一份熊盟教育的宣传册, 供您了解详细情况 (需要您提供微信账号)<br><br></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "beartech@yeah.net",
+            "alerts": {
+              "success": "感谢您的信任, 我们将尽快处理"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "您的姓名*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "您的微信账号*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "您的电话"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "问题与建议"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-1q"
         }
       ]
     }
