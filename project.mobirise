@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BearTech",
-    "currentPage": "success_stories.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,8 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/bear-tech-10-final-26042018-128x91-1.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": "<script>\r\nvar _hmt = _hmt || [];\r\n(function() {\r\n  var hm = document.createElement(\"script\");\r\n  hm.src = \"https://hm.baidu.com/hm.js?c694b88caebf61c49ea0657aa5eb6269\";\r\n  var s = document.getElementsByTagName(\"script\")[0]; \r\n  s.parentNode.insertBefore(hm, s);\r\n})();\r\n</script>"
   },
   "pages": {
     "index.html": {
